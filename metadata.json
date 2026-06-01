@@ -1,0 +1,6 @@
+{
+  "name": "Intelligent Misinformation Detection System",
+  "description": "An academic platform combining KMP pattern searching, Rabin-Karp hashing verification, and Gemini AI reasoning to detect fake news, conspiracy content, and factual inaccuracies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
